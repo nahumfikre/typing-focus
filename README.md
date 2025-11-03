@@ -1,4 +1,4 @@
-# Typing Focus & Stress Analyzer
+# Typing Focus Analyzer
 
 This project measures typing behavior (timing between keys, backspace usage, pauses) to estimate a rough “Focus Score” from 0–100. It records keystrokes locally into a CSV file and then analyzes it. Nothing is uploaded or sent anywhere.
 
