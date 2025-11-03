@@ -30,5 +30,5 @@ python typing_logger.py
 # It saves a file like: data/session_2025-11-02_153312.csv
 
 # 6. Analyze that typing session and get a Focus Score
-python analyze_session.py data/session_2025-11-02_153312.csv
-                                ^this bit is different for everyone, should be outputted right above the terminal cursor as saved: data/session_XXX.csv
+python analyze_session.py data/session_XXX.csv
+##                                ^this bit is different for everyone, should be outputted right above the terminal cursor as saved: data/session_XXX.csv
